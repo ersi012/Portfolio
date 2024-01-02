@@ -17,7 +17,7 @@ const Header = () => {
           </div>
         </div>
 
-        <div className="col-span-5 place-self-center mt-4 lg:mt-0">
+        <div className="col-span-5 place-self-center mt-5 lg:mt-0">
           <div className="rounded-full bg-[#08BDBA] w-[350px] h-[350px] relative">
             <Image
               src="/images/Avatar.png"
