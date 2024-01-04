@@ -14,6 +14,7 @@ const Header = () => {
           </p>
           <div> 
             <button className="px-6 py-3 rounded-full mr-4  bg-[#08BDBA] hover:bg-slate-200 text-black ">Connect</button>
+            <button className="px-6 py-3 rounded-full mr-4  bg-[#08BDBA] hover:bg-slate-200 text-black ">Resume</button>
           </div>
         </div>
 
