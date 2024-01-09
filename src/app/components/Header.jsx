@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <section>
       <div className="grid grid-cols-1 lg:grid-cols-12">
-        <div className="col-span-7 place-self-center"> 
+        <div className="col-span-8 place-self-center"> 
           <h1 className="text-white text-5xl lg:text-6xl font-extrabold">Hello, I'm Ersi</h1>
           <p className="text-[#ADB7BE] mt-2 mb-6 text-lg lg:text-xl"> 
             hELLO MY NAME IS ERSI & I AM A CS STUDENT 
@@ -18,7 +18,7 @@ const Header = () => {
           </div>
         </div>
 
-        <div className="col-span-5 place-self-center mt-5 lg:mt-0">
+        <div className="col-span-4 place-self-center mt-5 lg:mt-0">
           <div className="rounded-full bg-[#08BDBA] w-[350px] h-[350px] relative">
             <Image
               src="/images/Avatar.png"
