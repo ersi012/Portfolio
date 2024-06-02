@@ -2,12 +2,12 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="flex min-h-screen flex-col bg-black container mx-auto px-20 py-10 mt-40 items-center">
+    <div className="flex min-h-screen flex-col bg-black container mx-auto px-20 py-10 mt-40 items-center justify-center">
       <h2 className="text-5xl font-bold text-white text-center">About me</h2>
       <div className="flex flex-col md:flex-row items-center mt-10 md:mt-0 md:-mx-4">
         <div className="w-full md:w-1/2 mt-5 md:mt-0 md:px-4">
           <p className="text-white mt-2 mb-6 text-lg lg:text-xl text-center">
-            I am a Computer Science student at UMaine. I am passionate about everything tech and innovation! Join me in this journey 
+            I am a Computer Science student at UMaine. I am passionate about everything tech and innovation! Join me in this journey
           </p>
         </div>
       </div>
