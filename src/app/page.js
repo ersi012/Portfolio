@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import About from './components/About'
 import Projects from './components/Projects'
 import Connect from './components/Connect'
+import Experience from './components/Experience'
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <Header />  
       <About /> 
       <Projects/>  
+      <Experience /> 
       <Connect />
       </div> 
     </main>
