@@ -4,7 +4,7 @@ import Image from 'next/image'
 const Header = () => {
   return (
     <section>
-      <div className="grid grid-cols-1 mt-20">
+      <div className="grid grid-cols-1 mt-16">
         <div className="place-self-center"> 
         <h1 className="text-white text-5xl mt-5 lg:text-6xl font-extrabold text-center w-full">
               Hello, I'm Ersi

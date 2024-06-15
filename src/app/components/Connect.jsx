@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <div>
+    <section id="connect">
     <div className="flex flex-col bg-black container mx-auto mt-28" >
       <div className="text-center">
         <h2 className="text-5xl font-bold text-white">Let's connect!</h2>
@@ -13,9 +13,8 @@ const About = () => {
         </div>
       </div>
       <span className="bg-[#DB4B6F] w-screen flex justify-center"></span>
-    
     </div>
-    </div>
+    </section>
   );
 };
 
