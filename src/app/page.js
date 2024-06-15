@@ -12,7 +12,7 @@ export default function Home() {
       <Navbar />
       <div className=''>
       <Header />  
-      <About /> 
+      {/* <About />  */}
       <Projects/>  
       <Experience /> 
       <Connect />

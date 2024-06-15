@@ -54,7 +54,7 @@ const Projects = () => {
   ];
 
   return (
-    <div className="bg-black  min-h-screen flex justify-center items-center">
+    <div className="bg-black  min-h-screen flex justify-center items-center mt-28">
       <div className="max-w-7xl px-5 sm:px-6 lg:px-8">
         <h2 className="text-5xl font-bold place-self-center text-white text-center mb-8">Projects</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-7">
