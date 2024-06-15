@@ -16,7 +16,7 @@ const navLinks = [
   // },
   {
     title: "Resume",
-    path: "#resume",
+    path: "/#resume",
   },
   // {
   //   title: "Connect",
@@ -33,7 +33,7 @@ const Navbar = () => {
         <Link
           href={"/"}
           className="text-black text-3xl  font-bold">
-          Ersi Cako 
+          Ersi Cako
         </Link>
         <div className="mobile-menu block md:hidden ">
           {!navbarOpen ? (
