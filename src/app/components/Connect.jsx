@@ -2,17 +2,19 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="flex min-h-screen flex-col bg-black container mx-auto  justify-center">
+    <div>
+    <div className="flex flex-col bg-black container mx-auto mt-28" >
       <div className="text-center">
         <h2 className="text-5xl font-bold text-white">Let's connect!</h2>
-        <div className="flex flex-col md:flex-row items-center ">
-          <div className="w-full md:w-1/2  ">
-            <p className="text-lg text-gray-700 px-5">
-              Hi, I am Ersi
-            </p>
-          </div>
+        <div className="flex justify-center ">
+          <p className="text-lg text-gray-700 px-5">
+            Hi
+          </p>
         </div>
       </div>
+      <span className="bg-[#DB4B6F] w-screen flex justify-center"></span>
+    
+    </div>
     </div>
   );
 };
