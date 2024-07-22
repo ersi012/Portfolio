@@ -24,7 +24,7 @@ const Projects = () => {
     {
       id: 4,
       title: "Recipe Master",
-      image: "./images/Marine.png",
+      image: "./rec/intro.png",
       url: "/RecipeMaster",
     },
     {
