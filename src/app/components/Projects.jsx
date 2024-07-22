@@ -12,13 +12,13 @@ const Projects = () => {
     {
       id: 2,
       title: "SustainaVerse",
-      image: "./images/Marine.png",
+      image: "./sus/intro.png",
       url: "/SustainaVerse",
     },
     {
       id: 3,
       title: "Izhikevich Spiking Neuron Model",
-      image: "./images/Marine.png",
+      image: "./neuron/intro.png",
       url: "/NeuronModel",
     },
     {

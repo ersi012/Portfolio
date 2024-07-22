@@ -10,6 +10,19 @@ const Exp =() => {
             <div className="flex flex-col items-center">
 
             <img 
+              src="./images/Headstarter.png" 
+              alt="Circle Icon" 
+              className="w-20 h-20 mb-2 rounded-full outline-4 outline-white" 
+            />
+              <span className="text-sm font-semibold text-[#DB4B6F]">Headstarter AI</span>
+              <span className="flex justify-center text-center text-lg font-semibold">Software Engineering Fellow</span>
+              <span className="text-sm font-semibold">(Jun 2024-Present)</span>
+              <div className="flex flex-col items-center space-y-1 mt-1">
+                <div className="w-2 h-2 bg-[#DB4B6F] rounded-full"></div>
+                <div className="w-px h-16  bg-[#DB4B6F]"></div>
+              </div>
+
+            <img 
               src="./images/Bloom.png" 
               alt="Circle Icon" 
               className="w-20 h-20 mb-2 rounded-full outline-4 outline-white" 
